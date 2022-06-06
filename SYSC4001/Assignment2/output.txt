@@ -1,0 +1,17 @@
+
+ ID: 0 arrTime 0 cpuTime 0 IOfreq 0 IOdur 0 IOtime 0 runTime 0 State READY Tick: 0
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 5 State RUNNING Tick: 5
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 5 State WAITING Tick: 5PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 5 State WAITING Tick: 6PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 5 State WAITING Tick: 6PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 0 currrentRunTime 5 State READY Tick: 6
+ ID: 2 arrTime 2 cpuTime 11 IOfreq 5 IOdur 1 IOtime 0 runTime 0 State READY Tick: 6
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 10 State RUNNING Tick: 11
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 10 State WAITING Tick: 11PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 10 State WAITING Tick: 12PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 10 State WAITING Tick: 12PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 0 currrentRunTime 10 State READY Tick: 12
+ ID: 2 arrTime 2 cpuTime 11 IOfreq 5 IOdur 1 IOtime 0 runTime 0 State READY Tick: 12
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 15 State RUNNING Tick: 17
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 15 State WAITING Tick: 17PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 15 State WAITING Tick: 18PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 15 State WAITING Tick: 18PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 0 currrentRunTime 15 State READY Tick: 18
+ ID: 2 arrTime 2 cpuTime 11 IOfreq 5 IOdur 1 IOtime 0 runTime 0 State READY Tick: 18
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 20 State RUNNING Tick: 23
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 20 State WAITING Tick: 23PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 20 State WAITING Tick: 24PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 1 currrentRunTime 20 State WAITING Tick: 24PID: 1 ArrivalTime 0 totalCpuTime 22 IOfreq 5 IOdur 1 IOtime 0 currrentRunTime 20 State READY Tick: 24
+ ID: 2 arrTime 2 cpuTime 11 IOfreq 5 IOdur 1 IOtime 0 runTime 0 State READY Tick: 24
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 22 State RUNNING Tick: 26
+ ID: 1 arrTime 0 cpuTime 22 IOfreq 5 IOdur 1 IOtime 0 runTime 22 State TERMINATED Tick: 26
+ ID: 3 arrTime 4 cpuTime 12 IOfreq 5 IOdur 1 IOtime 0 runTime 0 State READY Tick: 27
